@@ -1,3 +1,4 @@
+# MH4518 : Simulation Techniques in Finance
 ## 1. Product description
 
 Our group has chosen the 10% p.a. Callable Barrier Reverse Convertible derivative product on a single underlying asset, Credit Suisse Group AG, listed on the SIX Swiss Exchange Ltd. The denomination of the product is 1000 CHF, with an initial fixing date of 15 August 2022 and final fixing date of 17 August 2023. The product has a maturity of 1 year, and pays coupons quarterly at 10% p.a., with a barrier at 50% of the initial level. On top of that, the product is callable for early redemption by the issuer quarterly, starting from 6 months, at 100% of the denomination plus the corresponding coupon amount. The product is also labelled as a reverse convertible as the issuer has the option to convert the investment amount to Credit Suisse stocks at a conversion ratio of 184.5018 at the maturity date if the Barrier has been reached during the lifetime of the product.
